@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  margin:190px auto;
+  height:auto;
+  width: 600px;
+  background:lightblue;
+}
+
+.cell {
+  float: left;
+  width:100px;
+  background: azure;
+  height: 100px;
+  border: 1px solid black;
+}
+.red{
+  background: red;
+}
